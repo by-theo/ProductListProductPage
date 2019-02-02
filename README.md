@@ -1,2 +1,0 @@
-# ProductListProductPage
-Created with CodeSandbox
